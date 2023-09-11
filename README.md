@@ -40,4 +40,4 @@ This project leverages the following technologies:
 To run this project locally, clone the repository and open the index.html file in your preferred web browser.
 
 ## Credits
-This page was created and designed by Nicolás Durán for ParriYendo
+This page was created and designed by **Nicolás Durán** for ParriYendo
